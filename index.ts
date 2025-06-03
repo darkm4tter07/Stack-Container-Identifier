@@ -5,7 +5,7 @@ const checkStackOrContainer = (figmaJson: any): 'stack' | 'container' => {
   if (!figmaJson?.Result?.nodes) return 'container';
 
   const nodes = figmaJson.Result.nodes;
-  const firstNodeId = Object.keys(nodes)[0]; // e.g., "1:5175"
+  const firstNodeId = Object.keys(nodes)[0];
   const document = nodes[firstNodeId]?.document;
 
   if (!document) return 'container';
@@ -20,5 +20,5 @@ const checkStackOrContainer = (figmaJson: any): 'stack' | 'container' => {
 };
 
 
-console.log('Container result:', checkStackOrContainer(figmaContainer)); // "container"
-console.log('Stack result:', checkStackOrContainer(figmaStack));         // "stack"
+console.log('Container result:', checkStackOrContainer(figmaContainer)); 
+console.log('Stack result:', checkStackOrContainer(figmaStack));        
