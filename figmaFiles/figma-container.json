@@ -1,0 +1,243 @@
+{
+    "Result": {
+        "name": "Sample",
+        "lastModified": "2025-06-03T10:28:18Z",
+        "thumbnailUrl": "https://s3-alpha.figma.com/thumbnails/17151f0d-2f23-4bce-b139-9ff9e2e86288?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCWP5TY7EM%2F20250601%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250601T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=baa318dda83ef3a972baeec66bde70b050554b139f05a2ab4cf06b85a5fbe2ea",
+        "version": "2225371592502061759",
+        "role": "viewer",
+        "editorType": "figma",
+        "linkAccess": "view",
+        "nodes": {
+            "1:2": {
+                "document": {
+                    "id": "1:2",
+                    "name": "Frame 1",
+                    "type": "FRAME",
+                    "scrollBehavior": "SCROLLS",
+                    "children": [{
+                        "id": "1:4",
+                        "name": "Ellipse 2",
+                        "type": "ELLIPSE",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "fills": [{
+                            "blendMode": "NORMAL",
+                            "type": "SOLID",
+                            "color": {
+                                "r": 0.85098040103912354,
+                                "g": 0.85098040103912354,
+                                "b": 0.85098040103912354,
+                                "a": 1.0
+                            }
+                        }],
+                        "strokes": [],
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "absoluteBoundingBox": {
+                            "x": 224.0,
+                            "y": 157.0,
+                            "width": 69.0,
+                            "height": 59.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": 224.0,
+                            "y": 157.0,
+                            "width": 69.0,
+                            "height": 59.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "effects": [],
+                        "arcData": {
+                            "startingAngle": 0.0,
+                            "endingAngle": 6.2831854820251465,
+                            "innerRadius": 0.0
+                        },
+                        "interactions": []
+                    }, {
+                        "id": "1:9",
+                        "name": "Ellipse 5",
+                        "type": "ELLIPSE",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "fills": [{
+                            "blendMode": "NORMAL",
+                            "type": "SOLID",
+                            "color": {
+                                "r": 0.85098040103912354,
+                                "g": 0.85098040103912354,
+                                "b": 0.85098040103912354,
+                                "a": 1.0
+                            }
+                        }],
+                        "strokes": [],
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "absoluteBoundingBox": {
+                            "x": 112.0,
+                            "y": 157.0,
+                            "width": 69.0,
+                            "height": 59.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": 112.0,
+                            "y": 157.0,
+                            "width": 69.0,
+                            "height": 59.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "effects": [],
+                        "arcData": {
+                            "startingAngle": 0.0,
+                            "endingAngle": 6.2831854820251465,
+                            "innerRadius": 0.0
+                        },
+                        "interactions": []
+                    }, {
+                        "id": "1:5",
+                        "name": "Ellipse 3",
+                        "type": "ELLIPSE",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "fills": [{
+                            "blendMode": "NORMAL",
+                            "type": "SOLID",
+                            "color": {
+                                "r": 0.85098040103912354,
+                                "g": 0.85098040103912354,
+                                "b": 0.85098040103912354,
+                                "a": 1.0
+                            }
+                        }],
+                        "strokes": [],
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "absoluteBoundingBox": {
+                            "x": 326.0,
+                            "y": 157.0,
+                            "width": 69.0,
+                            "height": 59.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": 326.0,
+                            "y": 157.0,
+                            "width": 69.0,
+                            "height": 59.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "effects": [],
+                        "arcData": {
+                            "startingAngle": 0.0,
+                            "endingAngle": 6.2831854820251465,
+                            "innerRadius": 0.0
+                        },
+                        "interactions": []
+                    }, {
+                        "id": "1:7",
+                        "name": "Ellipse 4",
+                        "type": "ELLIPSE",
+                        "scrollBehavior": "SCROLLS",
+                        "blendMode": "PASS_THROUGH",
+                        "fills": [{
+                            "blendMode": "NORMAL",
+                            "type": "SOLID",
+                            "color": {
+                                "r": 0.85098040103912354,
+                                "g": 0.85098040103912354,
+                                "b": 0.85098040103912354,
+                                "a": 1.0
+                            }
+                        }],
+                        "strokes": [],
+                        "strokeWeight": 1.0,
+                        "strokeAlign": "INSIDE",
+                        "absoluteBoundingBox": {
+                            "x": 438.0,
+                            "y": 157.0,
+                            "width": 69.0,
+                            "height": 59.0
+                        },
+                        "absoluteRenderBounds": {
+                            "x": 438.0,
+                            "y": 157.0,
+                            "width": 69.0,
+                            "height": 59.0
+                        },
+                        "constraints": {
+                            "vertical": "TOP",
+                            "horizontal": "LEFT"
+                        },
+                        "effects": [],
+                        "arcData": {
+                            "startingAngle": 0.0,
+                            "endingAngle": 6.2831854820251465,
+                            "innerRadius": 0.0
+                        },
+                        "interactions": []
+                    }],
+                    "blendMode": "PASS_THROUGH",
+                    "clipsContent": true,
+                    "background": [{
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 1.0,
+                            "g": 1.0,
+                            "b": 1.0,
+                            "a": 1.0
+                        }
+                    }],
+                    "fills": [{
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                            "r": 1.0,
+                            "g": 1.0,
+                            "b": 1.0,
+                            "a": 1.0
+                        }
+                    }],
+                    "strokes": [],
+                    "strokeWeight": 1.0,
+                    "strokeAlign": "INSIDE",
+                    "backgroundColor": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "a": 1.0
+                    },
+                    "absoluteBoundingBox": {
+                        "x": 53.0,
+                        "y": 113.0,
+                        "width": 517.0,
+                        "height": 129.0
+                    },
+                    "absoluteRenderBounds": {
+                        "x": 53.0,
+                        "y": 113.0,
+                        "width": 517.0,
+                        "height": 129.0
+                    },
+                    "constraints": {
+                        "vertical": "TOP",
+                        "horizontal": "LEFT"
+                    },
+                    "effects": [],
+                    "interactions": []
+                },
+                "components": {},
+                "componentSets": {},
+                "schemaVersion": 0,
+                "styles": {}
+            }
+        }
+    }
+}
