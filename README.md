@@ -42,5 +42,6 @@ import figmaStack from './figmaFiles/figma-stack.json';
 Call the function with the JSON object:
 ```
 console.log('Container result:', checkStackOrContainer(figmaContainer)); 
-console.log('Stack result:', checkStackOrContainer(figmaStack));         
+console.log('Stack result:', checkStackOrContainer(figmaStack));
+       
 ```
